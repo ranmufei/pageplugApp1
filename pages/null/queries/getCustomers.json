@@ -13,7 +13,6 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -37,7 +36,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "Page1_getCustomers",
+  "id": "null_getCustomers",
   "deleted": false,
   "gitSyncId": "62b41f08b72ed502c3e66727_62b41f08b72ed502c3e6672b"
 }
